@@ -3,7 +3,7 @@
     <!-- <HeaderC :username="name"></HeaderC>
     <BodyC></BodyC>
     <BodyC></BodyC> -->
-    <h1>カウントアップ</h1>
+    <h1>カウントアップaa</h1>
     <p>count: {{ count }}</p>
     <button @click="increment">+1</button>
   </div>
